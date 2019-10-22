@@ -1,0 +1,8 @@
+launch_form = 88, 88, 683, 382, C, 44, 44, 741, 649, I
+control_prog = -5, -4, 694, 524, Z
+read_star_files = 0, 0, 528, 294, C
+syntax_check = 66, 66, 594, 360, C, 132, 132, 660, 426, C
+application_code = 22, 22, 721, 550, C
+Tag_def = 0, 0, 0, 0, C, 88, 88, 616, 382, C
+set_frm_star = 22, 22, 550, 316, C
+program_control = 66, 66, 661, 360, C, 0, 0, 528, 294, C
